@@ -55,18 +55,18 @@
 ## Streamings
 
 ### Landscape 16:9
-- [AppleTv]()
-- [Crunchyroll]()
-- [Discovery+]()
-- [Disney+]()
-- [HBOMax]()
-- [Hulu]()
-- [Mubi]()
-- [Netflix]()
-- [Paramount]()
-- [Peacock]()
-- [PrimeVideo]()
-- [Starz]()
+- [AppleTv](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/AppleTvCover.jpg)
+- [Crunchyroll](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/CrunchyrollCover.jpg)
+- [Discovery+](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/DiscoveryplusCover.jpg)
+- [Disney+](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/DisneyCover.jpg)
+- [HBOMax](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/HboMAXCover.jpg)
+- [Hulu](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/hulucover.jpg)
+- [Mubi](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/MubiCover.jpg)
+- [Netflix](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/NetflixCover.jpg)
+- [Paramount](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/ParamontCover.jpg)
+- [Peacock](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/peacockCover.jpg)
+- [PrimeVideo](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/PrimeVideoCover.jpg)
+- [Starz](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/StarzCover.jpg)
 
 ### *Credits*
 - [https://postimg.cc/gallery/bpNfbd3]
@@ -74,18 +74,18 @@
 #
 
 # Gifs
-- [AppleTv]()
-- [Crunchyroll]()
-- [Discovery+]()
-- [Disney+]()
-- [HBOMax]()
-- [Hulu]()
-- [Mubi]()
-- [Netflix]()
-- [Paramount]()
-- [Peacock]()
-- [PrimeVideo]()
-- [Starz]()
+- [AppleTv](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/AppleTvGif.gif)
+- [Crunchyroll](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/crunchyroll-Gif.gif)
+- [Discovery+](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/DiscoveryPlusGif.gif)
+- [Disney+](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/DisneyPlusGif.gif)
+- [HBOMax](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/HboMAXgif.gif)
+- [Hulu](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/HuluGif.gif)
+- [Mubi](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/mubiGif.gif)
+- [Netflix](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/NetflixGif.gif)
+- [Paramount](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/ParamountPlusGif.gif)
+- [Peacock](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/peacockGif.gif)
+- [PrimeVideo](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/Primevideogif.gif)
+- [Starz](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/StarzGif.gif)
 
 ### *Credits*
 - [https://www.tumblr.com/dannyshields4?redirect_to=%2Fdannyshields4&source=blog_view_login_wall]
