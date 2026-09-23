@@ -7,9 +7,8 @@
 </div>
 
 ***
-
-## Gêneros
-
+<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioImagesPrivate/refs/heads/main/generoslg.png?token=GHSAT0AAAAAAEJ36WS4AQATCGV2XGWNPHKO2VTIN5A" alt="Gêneros" width="300">
+  
 ### Poster 9:16
 - [Ação](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/G%C3%AAnerosNuvioCovers/Poster%20(9_16)/ACAO.png)
 - [Animação](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/G%C3%AAnerosNuvioCovers/Poster%20(9_16)/ANIMACAO.png)
@@ -58,7 +57,7 @@
 
 ***
 
-## Streamings
+<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioImagesPrivate/refs/heads/main/streamingslg.png?token=GHSAT0AAAAAAEJ36WS4MGZ3PJNWO65FAEZQ2VTIQEA" alt="Streamings" width="300">
 
 ### Landscape 16:9
 - [AppleTv](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/AppleTvCover.jpg)
@@ -75,11 +74,9 @@
 - [Starz](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/StarzCover.jpg)
 
 ### *Credits*
-- [https://postimg.cc/gallery/bpNfbd3]
+> [https://postimg.cc/gallery/bpNfbd3]
 
-#
-
-# Gifs
+### Gifs
 - [AppleTv](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/AppleTvGif.gif)
 - [Crunchyroll](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/crunchyroll-Gif.gif)
 - [Discovery+](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/DiscoveryPlusGif.gif)
@@ -94,7 +91,7 @@
 - [Starz](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/StreamingsGifs/StarzGif.gif)
 
 ### *Credits*
-- [https://www.tumblr.com/dannyshields4?redirect_to=%2Fdannyshields4&source=blog_view_login_wall]
-- [https://github.com/Facund3s/guianuviobr/blob/main/Configura%C3%A7%C3%A3o%20AIOMetadata/Imagens%20para%20cole%C3%A7%C3%B5es.md]
+> [https://www.tumblr.com/dannyshields4?redirect_to=%2Fdannyshields4&source=blog_view_login_wall]
+> [https://github.com/Facund3s/guianuviobr/blob/main/Configura%C3%A7%C3%A3o%20AIOMetadata/Imagens%20para%20cole%C3%A7%C3%B5es.md]
 
 ***
