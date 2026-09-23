@@ -1,4 +1,10 @@
-# NuvioDesings
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/LuaT0p/NuvioImagesPrivate/refs/heads/main/Capas_pt-brpreview.png?token=GHSAT0AAAAAAEJ36WS5BOE5CF6TSIGAMKBA2VTHYFQ" alt="Nuvio" width="550" />
+
+<a href="https://discord.com/invite/YvCqRYe9gw"><img src="https://img.shields.io/badge/Comunidade_-NuvioBrasil-blue?logo=discord&logoColor=white" alt="Discord"></a>
+  <br />
+</div>
 
 ***
 
