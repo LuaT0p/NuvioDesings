@@ -7,7 +7,7 @@
 </div>
 
 ***
-<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/imgsreadme/generoslg.png" alt="Gêneros" width="300">
+<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/imgsreadme/generoslg.png" alt="Gêneros" width="250">
   
 ### Poster 9:16
 - [Ação](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/G%C3%AAnerosNuvioCovers/Poster%20(9_16)/ACAO.png)
@@ -96,5 +96,13 @@
 ### *Credits*
 > [https://www.tumblr.com/dannyshields4?redirect_to=%2Fdannyshields4&source=blog_view_login_wall]
 > [https://github.com/Facund3s/guianuviobr/blob/main/Configura%C3%A7%C3%A3o%20AIOMetadata/Imagens%20para%20cole%C3%A7%C3%B5es.md]
+
+***
+
+<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/imgsreadme/Outros.png" alt="Streamings" width="250">
+
+### Gifs
+- [Oscars](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Outros/Gifs/OscarsGif.gif)
+- [Globo de Ouro](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Outros/Gifs/GloboDeOuroGif.gif)
 
 ***
