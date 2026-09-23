@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/LuaT0p/NuvioImagesPrivate/refs/heads/main/Capas_pt-brpreview.png?token=GHSAT0AAAAAAEJ36WS5BOE5CF6TSIGAMKBA2VTHYFQ" alt="Nuvio" width="550" />
+  <img src="https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/imgsreadme/Capas_pt-brpreview.png" alt="Nuvio" width="550" />
 
 <a href="https://discord.com/invite/YvCqRYe9gw"><img src="https://img.shields.io/badge/Comunidade_-NuvioBrasil-blue?logo=discord&logoColor=white" alt="Discord"></a>
   <br />
 </div>
 
 ***
-<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioImagesPrivate/refs/heads/main/generoslg.png?token=GHSAT0AAAAAAEJ36WS4AQATCGV2XGWNPHKO2VTIN5A" alt="Gêneros" width="300">
+<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/imgsreadme/generoslg.png" alt="Gêneros" width="300">
   
 ### Poster 9:16
 - [Ação](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/G%C3%AAnerosNuvioCovers/Poster%20(9_16)/ACAO.png)
@@ -57,7 +57,7 @@
 
 ***
 
-<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioImagesPrivate/refs/heads/main/streamingslg.png?token=GHSAT0AAAAAAEJ36WS4MGZ3PJNWO65FAEZQ2VTIQEA" alt="Streamings" width="300">
+<div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/imgsreadme/streamingslg.png" alt="Streamings" width="300">
 
 ### Landscape 16:9
 - [AppleTv](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/AppleTvCover.jpg)
