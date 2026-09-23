@@ -65,6 +65,7 @@
 - [Discovery+](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/DiscoveryplusCover.jpg)
 - [Disney+](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/DisneyCover.jpg)
 - [GloboPlay](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/GloboPlayCover.png)
+- [GloboPlay Opção 2](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/GloboPlayCover2.png)
 - [HBOMax](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/HboMAXCover.jpg)
 - [Hulu](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/hulucover.jpg)
 - [Mubi](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/StreamingCovers/Streamings16.9/MubiCover.jpg)
