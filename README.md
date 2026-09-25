@@ -98,6 +98,22 @@
 > [https://github.com/Facund3s/guianuviobr/blob/main/Configura%C3%A7%C3%A3o%20AIOMetadata/Imagens%20para%20cole%C3%A7%C3%B5es.md]
 
 ***
+# Especiais de Feriados
+### Landscape 16:9
+- [Coleção Ano Novo](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/16.9/AnoNovoCole%C3%A7%C3%A3o.jfif)
+- [Coleção Carvanal](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/16.9/CarnavalCole%C3%A7%C3%A3o.jfif)
+- [Coleção Dia das Bruxas](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/16.9/DiadasBruxasCole%C3%A7%C3%A3o.jfif)
+- [Coleção Dia dos Namorados](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/16.9/DiadosNamoradosCole%C3%A7%C3%A3o.jfif)
+- [Coleção Natal](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/16.9/NatalCole%C3%A7%C3%A3o.jfif)
+- [Coleção Páscoa](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/16.9/PascoaCole%C3%A7%C3%A3o.jfif)
+
+### Logos
+- [Ano Novo - LOGO](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/Logos/AnoNovoCole%C3%A7%C3%A3o-LOGO.png)
+- [Dia dos Namorados - LOGO](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/Logos/DiadosNamoradosCole%C3%A7%C3%A3o-LOGO.png)
+- [Natal - LOGO](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/Logos/NatalCole%C3%A7%C3%A3o-LOGO.png)
+- [Páscoa - LOGO](https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/Especiais%20de%20Feriados/Logos/PascoaCole%C3%A7%C3%A3o-LOGO.png)
+
+***
 
 <div align="left"><img src="https://raw.githubusercontent.com/LuaT0p/NuvioDesings/refs/heads/main/imgsreadme/Outros.png" alt="Streamings" width="250">
 
